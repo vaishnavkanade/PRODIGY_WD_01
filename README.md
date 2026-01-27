@@ -1,84 +1,77 @@
- PRODIGY_TrackCode_01 – Interactive Landing Page
-TechVision – Digital Agency Landing Page
+ # 🚀 PRODIGY_TrackCode_01 – Interactive Landing Page  
+## 🌐 TechVision – Digital Agency Landing Page  
 
-Prodigy InfoTech Internship | Task 01
+### 🏢 Prodigy InfoTech Internship | Task 01  
 
- Project Overview
+---
 
-This repository contains my submission for Task 01 of the Web Development Internship at Prodigy InfoTech.
-The objective of this task was to build a responsive and interactive landing page using core web technologies.
+## 📌 Project Overview  
+This repository contains my submission for **Task 01 of the Web Development Internship at Prodigy InfoTech**.  
+The goal of this task was to build a **responsive and interactive landing page** using core web technologies.
 
-The project showcases a modern Dark UI, smooth scrolling behavior, interactive navigation, and performance-optimized animations using pure HTML, CSS, and Vanilla JavaScript—without relying on external frameworks.
+This project demonstrates a **modern Dark UI**, **smooth scrolling**, **interactive navigation**, and  
+**performance-optimized animations** using **pure HTML, CSS, and Vanilla JavaScript**  
+*(without any external frameworks)*.
 
- Key Features
-Modern Dark UI
+---
 
-Dark theme with gradient-based styling
+## ✨ Key Features  
 
-Subtle animated hero background
+### 🌙 Modern Dark UI  
+✔ Gradient-based dark theme  
+✔ Subtle animated hero background  
+✔ Professional digital-agency aesthetics  
 
-Clean, professional digital-agency look
+---
 
-Interactive Navigation Bar
+### 🧭 Interactive Navigation Bar  
+✔ Fixed (sticky) navbar on all pages  
+✔ Navbar style changes on scroll  
+✔ Active section highlighting  
+✔ Hover & ripple effects on links  
+✔ Auto hide/show based on scroll direction  
 
-Fixed (sticky) navbar visible on all pages
+---
 
-Navbar changes style on scroll
+### 📱 Fully Responsive Design  
+✔ Mobile-friendly hamburger menu  
+✔ Touch-optimized buttons & links  
+✔ Works on **Mobile • Tablet • Desktop**  
 
-Active section highlighting using Intersection Observer
+---
 
-Smooth hover and ripple effects on nav links
+### 🎨 Smooth Animations & Effects  
+✔ Smooth scrolling between sections  
+✔ Parallax hero section  
+✔ Scroll-based UI animations  
+✔ Button hover glow effects  
+✔ Throttled animations for performance  
 
-Hide/show navbar based on scroll direction
+---
 
-Fully Responsive Design
+### ♿ Accessibility & Performance  
+✔ Keyboard navigation (ESC to close menu)  
+✔ Reduced-motion & high-contrast support  
+✔ GPU-accelerated CSS animations  
 
-Mobile-friendly hamburger menu
+---
 
-Touch-optimized buttons and links
+## 🧩 Sections Included  
+- 🏠 **Home (Hero Section)**  
+- ℹ️ **About Us**  
+- 🛠️ **Services**  
+- 💼 **Portfolio**  
+- 📩 **Contact**  
+- 🔻 **Footer**  
 
-Works seamlessly on Mobile, Tablet, and Desktop
+---
 
- Smooth Animations & Effects
+## 🛠️ Tech Stack  
+- 🧱 **HTML5** – Semantic structure & layout  
+- 🎨 **CSS3** – Flexbox, Grid, Media Queries, Animations  
+- ⚙️ **JavaScript (ES6)** – DOM manipulation, Scroll events, Intersection Observer  
 
-Smooth scrolling between sections
+---
 
-Parallax effect in hero section
-
-Animated UI elements on scroll
-
-Button hover animations and glow effects
-
-Optimized animations using throttling for performance
-
-Accessibility & Performance
-
-Keyboard navigation support (ESC to close menu)
-
-Reduced-motion and high-contrast support
-
-Optimized CSS for GPU acceleration
-
- Sections Included
-
-Home (Hero Section)
-
-About Us
-
-Services
-
-Portfolio
-
-Contact
-
-Footer
-
-🛠️ Tech Stack
-
-HTML5 – Semantic structure and layout
-
-CSS3 – Flexbox, Grid, Media Queries, Animations
-
-JavaScript (ES6) – DOM manipulation, scroll events, Intersection Observer
 
 
