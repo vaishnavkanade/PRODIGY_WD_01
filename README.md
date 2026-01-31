@@ -1,6 +1,10 @@
  # 🚀 PRODIGY_TrackCode_01 – Interactive Landing Page  
 ## 🌐 TechVision – Digital Agency Landing Page  
 
+🚀 Live Demo
+https://vaishnavkanade.github.io/PRODIGY_WD_01/
+
+Prodigy InfoTech Intern
 ### 🏢 Prodigy InfoTech Internship | Task 01  
 
 ---
